@@ -1,0 +1,13 @@
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\json-tester.exe
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\json-tester.deps.json
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\json-tester.runtimeconfig.json
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\json-tester.runtimeconfig.dev.json
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\json-tester.dll
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\json-tester.pdb
+C:\Users\13127\source\repos\json-tester\json-tester\obj\Debug\netcoreapp3.0\json-tester.csprojAssemblyReference.cache
+C:\Users\13127\source\repos\json-tester\json-tester\obj\Debug\netcoreapp3.0\json-tester.AssemblyInfoInputs.cache
+C:\Users\13127\source\repos\json-tester\json-tester\obj\Debug\netcoreapp3.0\json-tester.AssemblyInfo.cs
+C:\Users\13127\source\repos\json-tester\json-tester\obj\Debug\netcoreapp3.0\json-tester.dll
+C:\Users\13127\source\repos\json-tester\json-tester\obj\Debug\netcoreapp3.0\json-tester.pdb
+C:\Users\13127\source\repos\json-tester\json-tester\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\13127\source\repos\json-tester\json-tester\obj\Debug\netcoreapp3.0\json-tester.csproj.CopyComplete

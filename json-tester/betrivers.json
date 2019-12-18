@@ -1,0 +1,3623 @@
+[
+  {
+    "Id": "2196536278",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Full Time",
+    "Outcomes": [
+      {
+        "Id": "2692997722",
+        "Line": 0,
+        "OddsAmerican": "132",
+        "OddsFractional": "13/10",
+        "Label": "1"
+      },
+      {
+        "Id": "2692997723",
+        "Line": 0,
+        "OddsAmerican": "280",
+        "OddsFractional": "14/5",
+        "Label": "X"
+      },
+      {
+        "Id": "2692997724",
+        "Line": 0,
+        "OddsAmerican": "190",
+        "OddsFractional": "19/10",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536294",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997764",
+        "Line": 3,
+        "OddsAmerican": "-113",
+        "OddsFractional": "22/25",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997774",
+        "Line": 3,
+        "OddsAmerican": "-109",
+        "OddsFractional": "10/11",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536295",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Away Team To Score - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997773",
+        "Line": 0,
+        "OddsAmerican": "-127",
+        "OddsFractional": "10/13",
+        "Label": "No"
+      },
+      {
+        "Id": "2692997784",
+        "Line": 0,
+        "OddsAmerican": "-109",
+        "OddsFractional": "10/11",
+        "Label": "Yes"
+      }
+    ]
+  },
+  {
+    "Id": "2196536296",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997765",
+        "Line": -1.25,
+        "OddsAmerican": "650",
+        "OddsFractional": "13/2",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997775",
+        "Line": 1.25,
+        "OddsAmerican": "-1115",
+        "OddsFractional": "1/12",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536300",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2692997769",
+        "Line": 2.5,
+        "OddsAmerican": "295",
+        "OddsFractional": "29/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997779",
+        "Line": 2.5,
+        "OddsAmerican": "-420",
+        "OddsFractional": "6/25",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536302",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997771",
+        "Line": 1,
+        "OddsAmerican": "-530",
+        "OddsFractional": "2/11",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997781",
+        "Line": -1,
+        "OddsAmerican": "400",
+        "OddsFractional": "4/1",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536304",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997788",
+        "Line": 2.25,
+        "OddsAmerican": "-265",
+        "OddsFractional": "4/11",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997789",
+        "Line": 2.25,
+        "OddsAmerican": "205",
+        "OddsFractional": "41/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536305",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Home Team to Score in both halves",
+    "Outcomes": [
+      {
+        "Id": "2692997792",
+        "Line": 0,
+        "OddsAmerican": "185",
+        "OddsFractional": "37/20",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692997795",
+        "Line": 0,
+        "OddsAmerican": "-275",
+        "OddsFractional": "4/11",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536307",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997799",
+        "Line": 0.75,
+        "OddsAmerican": "-335",
+        "OddsFractional": "3/10",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997800",
+        "Line": -0.75,
+        "OddsAmerican": "260",
+        "OddsFractional": "13/5",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536308",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997801",
+        "Line": 2.5,
+        "OddsAmerican": "450",
+        "OddsFractional": "9/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997802",
+        "Line": 2.5,
+        "OddsAmerican": "-770",
+        "OddsFractional": "1/8",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536309",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692997803",
+        "Line": 2.5,
+        "OddsAmerican": "-375",
+        "OddsFractional": "27/100",
+        "Label": "Under"
+      },
+      {
+        "Id": "2692997804",
+        "Line": 2.5,
+        "OddsAmerican": "245",
+        "OddsFractional": "49/20",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2196536310",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997805",
+        "Line": 3.75,
+        "OddsAmerican": "185",
+        "OddsFractional": "37/20",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997806",
+        "Line": 3.75,
+        "OddsAmerican": "-235",
+        "OddsFractional": "21/50",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536312",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997809",
+        "Line": 0,
+        "OddsAmerican": "-137",
+        "OddsFractional": "8/11",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997810",
+        "Line": 0,
+        "OddsAmerican": "106",
+        "OddsFractional": "21/20",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536313",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997811",
+        "Line": 0.5,
+        "OddsAmerican": "-400",
+        "OddsFractional": "1/4",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997812",
+        "Line": 0.5,
+        "OddsAmerican": "280",
+        "OddsFractional": "14/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536315",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997815",
+        "Line": 4.25,
+        "OddsAmerican": "300",
+        "OddsFractional": "3/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997816",
+        "Line": 4.25,
+        "OddsAmerican": "-400",
+        "OddsFractional": "1/4",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536316",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997817",
+        "Line": -1.5,
+        "OddsAmerican": "350",
+        "OddsFractional": "7/2",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997818",
+        "Line": 1.5,
+        "OddsAmerican": "-455",
+        "OddsFractional": "11/50",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536318",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Both Teams To Score - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692997824",
+        "Line": 0,
+        "OddsAmerican": "160",
+        "OddsFractional": "8/5",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692997833",
+        "Line": 0,
+        "OddsAmerican": "-235",
+        "OddsFractional": "21/50",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536321",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997834",
+        "Line": -1.5,
+        "OddsAmerican": "750",
+        "OddsFractional": "15/2",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997835",
+        "Line": 1.5,
+        "OddsAmerican": "-1430",
+        "OddsFractional": "1/16",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536324",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692997849",
+        "Line": 2.5,
+        "OddsAmerican": "-182",
+        "OddsFractional": "11/20",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997850",
+        "Line": 2.5,
+        "OddsAmerican": "143",
+        "OddsFractional": "7/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536325",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997851",
+        "Line": 2.25,
+        "OddsAmerican": "400",
+        "OddsFractional": "4/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997852",
+        "Line": 2.25,
+        "OddsAmerican": "-625",
+        "OddsFractional": "2/13",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536326",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997853",
+        "Line": 1.75,
+        "OddsAmerican": "190",
+        "OddsFractional": "19/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997854",
+        "Line": 1.75,
+        "OddsAmerican": "-265",
+        "OddsFractional": "4/11",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536327",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997855",
+        "Line": -0.75,
+        "OddsAmerican": "175",
+        "OddsFractional": "7/4",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997856",
+        "Line": 0.75,
+        "OddsAmerican": "-215",
+        "OddsFractional": "4/9",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536328",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2692997857",
+        "Line": 2.5,
+        "OddsAmerican": "390",
+        "OddsFractional": "19/5",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997858",
+        "Line": 2.5,
+        "OddsAmerican": "-590",
+        "OddsFractional": "1/6",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536329",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2692997859",
+        "Line": 0.5,
+        "OddsAmerican": "-625",
+        "OddsFractional": "2/13",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997860",
+        "Line": 0.5,
+        "OddsAmerican": "410",
+        "OddsFractional": "4/1",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536330",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997861",
+        "Line": -0.25,
+        "OddsAmerican": "128",
+        "OddsFractional": "5/4",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997862",
+        "Line": 0.25,
+        "OddsAmerican": "-167",
+        "OddsFractional": "3/5",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536331",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997863",
+        "Line": 3.25,
+        "OddsAmerican": "116",
+        "OddsFractional": "23/20",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997864",
+        "Line": 3.25,
+        "OddsAmerican": "-141",
+        "OddsFractional": "7/10",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536332",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997865",
+        "Line": 0.5,
+        "OddsAmerican": "-335",
+        "OddsFractional": "3/10",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997866",
+        "Line": -0.5,
+        "OddsAmerican": "235",
+        "OddsFractional": "47/20",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536334",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997870",
+        "Line": 2,
+        "OddsAmerican": "-435",
+        "OddsFractional": "2/9",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997871",
+        "Line": 2,
+        "OddsAmerican": "330",
+        "OddsFractional": "33/10",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536336",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692997880",
+        "Line": 6.5,
+        "OddsAmerican": "1600",
+        "OddsFractional": "16/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997881",
+        "Line": 6.5,
+        "OddsAmerican": "-10000",
+        "OddsFractional": "1/100",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536339",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997888",
+        "Line": -0.5,
+        "OddsAmerican": "180",
+        "OddsFractional": "9/5",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997889",
+        "Line": 0.5,
+        "OddsAmerican": "-245",
+        "OddsFractional": "2/5",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536340",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692997890",
+        "Line": 0.5,
+        "OddsAmerican": "-10000",
+        "OddsFractional": "1/100",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997891",
+        "Line": 0.5,
+        "OddsAmerican": "1500",
+        "OddsFractional": "15/1",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536341",
+    "BetOfferType": "Odd/Even",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Away Team Odd/Even",
+    "Outcomes": [
+      {
+        "Id": "2692997892",
+        "Line": 0,
+        "OddsAmerican": "-103",
+        "OddsFractional": "49/50",
+        "Label": "Odd"
+      },
+      {
+        "Id": "2692997893",
+        "Line": 0,
+        "OddsAmerican": "-122",
+        "OddsFractional": "4/5",
+        "Label": "Even"
+      }
+    ]
+  },
+  {
+    "Id": "2196536342",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997894",
+        "Line": 4.75,
+        "OddsAmerican": "450",
+        "OddsFractional": "9/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997895",
+        "Line": 4.75,
+        "OddsAmerican": "-625",
+        "OddsFractional": "2/13",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536343",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692997896",
+        "Line": 4.5,
+        "OddsAmerican": "325",
+        "OddsFractional": "13/4",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997897",
+        "Line": 4.5,
+        "OddsAmerican": "-455",
+        "OddsFractional": "11/50",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536345",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2692997901",
+        "Line": 1.5,
+        "OddsAmerican": "114",
+        "OddsFractional": "57/50",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997902",
+        "Line": 1.5,
+        "OddsAmerican": "-148",
+        "OddsFractional": "4/6",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536346",
+    "BetOfferType": "Odd/Even",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Home Team Odd/Even",
+    "Outcomes": [
+      {
+        "Id": "2692997903",
+        "Line": 0,
+        "OddsAmerican": "-105",
+        "OddsFractional": "19/20",
+        "Label": "Odd"
+      },
+      {
+        "Id": "2692997904",
+        "Line": 0,
+        "OddsAmerican": "-118",
+        "OddsFractional": "17/20",
+        "Label": "Even"
+      }
+    ]
+  },
+  {
+    "Id": "2196536347",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2692997905",
+        "Line": 1.5,
+        "OddsAmerican": "-115",
+        "OddsFractional": "17/20",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997906",
+        "Line": 1.5,
+        "OddsAmerican": "-113",
+        "OddsFractional": "22/25",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536348",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997907",
+        "Line": 0.75,
+        "OddsAmerican": "-530",
+        "OddsFractional": "2/11",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997908",
+        "Line": -0.75,
+        "OddsAmerican": "360",
+        "OddsFractional": "18/5",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536349",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997909",
+        "Line": 2.5,
+        "OddsAmerican": "-182",
+        "OddsFractional": "11/20",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997910",
+        "Line": 2.5,
+        "OddsAmerican": "148",
+        "OddsFractional": "29/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536350",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997911",
+        "Line": 0.25,
+        "OddsAmerican": "-230",
+        "OddsFractional": "11/25",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997912",
+        "Line": -0.25,
+        "OddsAmerican": "170",
+        "OddsFractional": "17/10",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536351",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997913",
+        "Line": 2,
+        "OddsAmerican": "335",
+        "OddsFractional": "10/3",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997914",
+        "Line": 2,
+        "OddsAmerican": "-500",
+        "OddsFractional": "1/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536353",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997921",
+        "Line": -1.25,
+        "OddsAmerican": "300",
+        "OddsFractional": "3/1",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997922",
+        "Line": 1.25,
+        "OddsAmerican": "-385",
+        "OddsFractional": "1/4",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536354",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997923",
+        "Line": 0.5,
+        "OddsAmerican": "-420",
+        "OddsFractional": "6/25",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997924",
+        "Line": 0.5,
+        "OddsAmerican": "275",
+        "OddsFractional": "11/4",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536355",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997925",
+        "Line": -2.75,
+        "OddsAmerican": "1300",
+        "OddsFractional": "13/1",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997926",
+        "Line": 2.75,
+        "OddsAmerican": "-2500",
+        "OddsFractional": "1/25",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536356",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997927",
+        "Line": 0.75,
+        "OddsAmerican": "-295",
+        "OddsFractional": "1/3",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997928",
+        "Line": 0.75,
+        "OddsAmerican": "215",
+        "OddsFractional": "43/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536357",
+    "BetOfferType": "Odd/Even",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals Odd/Even",
+    "Outcomes": [
+      {
+        "Id": "2692997929",
+        "Line": 0,
+        "OddsAmerican": "-115",
+        "OddsFractional": "17/20",
+        "Label": "Even"
+      },
+      {
+        "Id": "2692997930",
+        "Line": 0,
+        "OddsAmerican": "-108",
+        "OddsFractional": "10/11",
+        "Label": "Odd"
+      }
+    ]
+  },
+  {
+    "Id": "2196536358",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997931",
+        "Line": 1,
+        "OddsAmerican": "-200",
+        "OddsFractional": "1/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997932",
+        "Line": 1,
+        "OddsAmerican": "148",
+        "OddsFractional": "29/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536359",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692997933",
+        "Line": -0.5,
+        "OddsAmerican": "130",
+        "OddsFractional": "13/10",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997934",
+        "Line": 0.5,
+        "OddsAmerican": "-157",
+        "OddsFractional": "16/25",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536360",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692997935",
+        "Line": 1.25,
+        "OddsAmerican": "-1000",
+        "OddsFractional": "1/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997936",
+        "Line": 1.25,
+        "OddsAmerican": "650",
+        "OddsFractional": "13/2",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536361",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2692997937",
+        "Line": 0.5,
+        "OddsAmerican": "-455",
+        "OddsFractional": "11/50",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997938",
+        "Line": 0.5,
+        "OddsAmerican": "310",
+        "OddsFractional": "3/1",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536362",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692997939",
+        "Line": 1.5,
+        "OddsAmerican": "-625",
+        "OddsFractional": "2/13",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997940",
+        "Line": 1.5,
+        "OddsAmerican": "410",
+        "OddsFractional": "4/1",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536363",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2692997941",
+        "Line": 3.5,
+        "OddsAmerican": "850",
+        "OddsFractional": "17/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997942",
+        "Line": 3.5,
+        "OddsAmerican": "-1667",
+        "OddsFractional": "1/18",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536364",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997943",
+        "Line": -0.75,
+        "OddsAmerican": "280",
+        "OddsFractional": "14/5",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692997944",
+        "Line": 0.75,
+        "OddsAmerican": "-400",
+        "OddsFractional": "1/4",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536365",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997945",
+        "Line": 1.25,
+        "OddsAmerican": "-110",
+        "OddsFractional": "10/11",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997946",
+        "Line": 1.25,
+        "OddsAmerican": "-118",
+        "OddsFractional": "17/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536369",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2692997986",
+        "Line": 3.5,
+        "OddsAmerican": "1150",
+        "OddsFractional": "23/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692997987",
+        "Line": 3.5,
+        "OddsAmerican": "-2500",
+        "OddsFractional": "1/25",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536370",
+    "BetOfferType": "Correct Score",
+    "CashOutStatus": null,
+    "BetDescription": "Correct Score - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692997988",
+        "Line": 0,
+        "OddsAmerican": "270",
+        "OddsFractional": "27/10",
+        "Label": "0-0"
+      },
+      {
+        "Id": "2692997989",
+        "Line": 0,
+        "OddsAmerican": "440",
+        "OddsFractional": "22/5",
+        "Label": "0-1"
+      },
+      {
+        "Id": "2692997990",
+        "Line": 0,
+        "OddsAmerican": "1300",
+        "OddsFractional": "13/1",
+        "Label": "0-2"
+      },
+      {
+        "Id": "2692997991",
+        "Line": 0,
+        "OddsAmerican": "4500",
+        "OddsFractional": "45/1",
+        "Label": "0-3"
+      },
+      {
+        "Id": "2692997992",
+        "Line": 0,
+        "OddsAmerican": "20000",
+        "OddsFractional": "200/1",
+        "Label": "0-4"
+      },
+      {
+        "Id": "2692997993",
+        "Line": 0,
+        "OddsAmerican": "375",
+        "OddsFractional": "15/4",
+        "Label": "1-0"
+      },
+      {
+        "Id": "2692997994",
+        "Line": 0,
+        "OddsAmerican": "575",
+        "OddsFractional": "23/4",
+        "Label": "1-1"
+      },
+      {
+        "Id": "2692997995",
+        "Line": 0,
+        "OddsAmerican": "1700",
+        "OddsFractional": "17/1",
+        "Label": "1-2"
+      },
+      {
+        "Id": "2692997996",
+        "Line": 0,
+        "OddsAmerican": "6000",
+        "OddsFractional": "60/1",
+        "Label": "1-3"
+      },
+      {
+        "Id": "2692997997",
+        "Line": 0,
+        "OddsAmerican": "27500",
+        "OddsFractional": "275/1",
+        "Label": "1-4"
+      },
+      {
+        "Id": "2692997998",
+        "Line": 0,
+        "OddsAmerican": "1050",
+        "OddsFractional": "21/2",
+        "Label": "2-0"
+      },
+      {
+        "Id": "2692997999",
+        "Line": 0,
+        "OddsAmerican": "1500",
+        "OddsFractional": "15/1",
+        "Label": "2-1"
+      },
+      {
+        "Id": "2692998000",
+        "Line": 0,
+        "OddsAmerican": "3500",
+        "OddsFractional": "35/1",
+        "Label": "2-2"
+      },
+      {
+        "Id": "2692998001",
+        "Line": 0,
+        "OddsAmerican": "13000",
+        "OddsFractional": "130/1",
+        "Label": "2-3"
+      },
+      {
+        "Id": "2692998002",
+        "Line": 0,
+        "OddsAmerican": "3500",
+        "OddsFractional": "35/1",
+        "Label": "3-0"
+      },
+      {
+        "Id": "2692998003",
+        "Line": 0,
+        "OddsAmerican": "5000",
+        "OddsFractional": "50/1",
+        "Label": "3-1"
+      },
+      {
+        "Id": "2692998004",
+        "Line": 0,
+        "OddsAmerican": "12500",
+        "OddsFractional": "125/1",
+        "Label": "3-2"
+      },
+      {
+        "Id": "2692998005",
+        "Line": 0,
+        "OddsAmerican": "15000",
+        "OddsFractional": "150/1",
+        "Label": "4-0"
+      },
+      {
+        "Id": "2692998006",
+        "Line": 0,
+        "OddsAmerican": "20000",
+        "OddsFractional": "200/1",
+        "Label": "4-1"
+      }
+    ]
+  },
+  {
+    "Id": "2196536371",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998007",
+        "Line": 5.25,
+        "OddsAmerican": "750",
+        "OddsFractional": "15/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998008",
+        "Line": 5.25,
+        "OddsAmerican": "-1115",
+        "OddsFractional": "1/12",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536374",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998014",
+        "Line": 1,
+        "OddsAmerican": "-3335",
+        "OddsFractional": "1/40",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998015",
+        "Line": 1,
+        "OddsAmerican": "1500",
+        "OddsFractional": "15/1",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536375",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998016",
+        "Line": -2.5,
+        "OddsAmerican": "900",
+        "OddsFractional": "9/1",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998017",
+        "Line": 2.5,
+        "OddsAmerican": "-1430",
+        "OddsFractional": "1/16",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536378",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692998024",
+        "Line": 3.5,
+        "OddsAmerican": "140",
+        "OddsFractional": "7/5",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998025",
+        "Line": 3.5,
+        "OddsAmerican": "-177",
+        "OddsFractional": "11/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536380",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Tie No Bet",
+    "Outcomes": [
+      {
+        "Id": "2692998028",
+        "Line": 0,
+        "OddsAmerican": "-139",
+        "OddsFractional": "7/10",
+        "Label": "1"
+      },
+      {
+        "Id": "2692998030",
+        "Line": 0,
+        "OddsAmerican": "117",
+        "OddsFractional": "23/20",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536381",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Tie No Bet - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998031",
+        "Line": 0,
+        "OddsAmerican": "-143",
+        "OddsFractional": "7/10",
+        "Label": "1"
+      },
+      {
+        "Id": "2692998032",
+        "Line": 0,
+        "OddsAmerican": "100",
+        "OddsFractional": "Evens",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536384",
+    "BetOfferType": "Double Chance",
+    "CashOutStatus": null,
+    "BetDescription": "Double Chance - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998042",
+        "Line": 0,
+        "OddsAmerican": "-305",
+        "OddsFractional": "33/100",
+        "Label": "1X"
+      },
+      {
+        "Id": "2692998043",
+        "Line": 0,
+        "OddsAmerican": "-265",
+        "OddsFractional": "4/11",
+        "Label": "12"
+      },
+      {
+        "Id": "2692998044",
+        "Line": 0,
+        "OddsAmerican": "-230",
+        "OddsFractional": "11/25",
+        "Label": "X2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536385",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998045",
+        "Line": -1,
+        "OddsAmerican": "260",
+        "OddsFractional": "13/5",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998046",
+        "Line": 1,
+        "OddsAmerican": "-335",
+        "OddsFractional": "3/10",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536386",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998047",
+        "Line": 1.5,
+        "OddsAmerican": "-670",
+        "OddsFractional": "1/7",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998048",
+        "Line": -1.5,
+        "OddsAmerican": "500",
+        "OddsFractional": "5/1",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536388",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998053",
+        "Line": 1.75,
+        "OddsAmerican": "-530",
+        "OddsFractional": "2/11",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998054",
+        "Line": 1.75,
+        "OddsAmerican": "380",
+        "OddsFractional": "19/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536390",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Home Team to score first and win the match",
+    "Outcomes": [
+      {
+        "Id": "2692998063",
+        "Line": 0,
+        "OddsAmerican": "170",
+        "OddsFractional": "17/10",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998070",
+        "Line": 0,
+        "OddsAmerican": "-245",
+        "OddsFractional": "2/5",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536392",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Half Time",
+    "Outcomes": [
+      {
+        "Id": "2692998074",
+        "Line": 0,
+        "OddsAmerican": "175",
+        "OddsFractional": "7/4",
+        "Label": "1"
+      },
+      {
+        "Id": "2692998075",
+        "Line": 0,
+        "OddsAmerican": "138",
+        "OddsFractional": "11/8",
+        "Label": "X"
+      },
+      {
+        "Id": "2692998076",
+        "Line": 0,
+        "OddsAmerican": "225",
+        "OddsFractional": "9/4",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536393",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998077",
+        "Line": -0.25,
+        "OddsAmerican": "100",
+        "OddsFractional": "Evens",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998078",
+        "Line": 0.25,
+        "OddsAmerican": "-121",
+        "OddsFractional": "41/50",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536394",
+    "BetOfferType": "Double Chance",
+    "CashOutStatus": null,
+    "BetDescription": "Double Chance - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998079",
+        "Line": 0,
+        "OddsAmerican": "-360",
+        "OddsFractional": "7/25",
+        "Label": "1X"
+      },
+      {
+        "Id": "2692998080",
+        "Line": 0,
+        "OddsAmerican": "-200",
+        "OddsFractional": "1/2",
+        "Label": "12"
+      },
+      {
+        "Id": "2692998081",
+        "Line": 0,
+        "OddsAmerican": "-265",
+        "OddsFractional": "4/11",
+        "Label": "X2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536396",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998086",
+        "Line": 0,
+        "OddsAmerican": "155",
+        "OddsFractional": "31/20",
+        "Label": "1"
+      },
+      {
+        "Id": "2692998087",
+        "Line": 0,
+        "OddsAmerican": "175",
+        "OddsFractional": "7/4",
+        "Label": "X"
+      },
+      {
+        "Id": "2692998088",
+        "Line": 0,
+        "OddsAmerican": "200",
+        "OddsFractional": "2/1",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536398",
+    "BetOfferType": "Correct Score",
+    "CashOutStatus": null,
+    "BetDescription": "Correct Score - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998091",
+        "Line": 0,
+        "OddsAmerican": "425",
+        "OddsFractional": "17/4",
+        "Label": "0-0"
+      },
+      {
+        "Id": "2692998092",
+        "Line": 0,
+        "OddsAmerican": "525",
+        "OddsFractional": "21/4",
+        "Label": "0-1"
+      },
+      {
+        "Id": "2692998093",
+        "Line": 0,
+        "OddsAmerican": "1200",
+        "OddsFractional": "12/1",
+        "Label": "0-2"
+      },
+      {
+        "Id": "2692998094",
+        "Line": 0,
+        "OddsAmerican": "3400",
+        "OddsFractional": "34/1",
+        "Label": "0-3"
+      },
+      {
+        "Id": "2692998095",
+        "Line": 0,
+        "OddsAmerican": "12000",
+        "OddsFractional": "120/1",
+        "Label": "0-4"
+      },
+      {
+        "Id": "2692998096",
+        "Line": 0,
+        "OddsAmerican": "450",
+        "OddsFractional": "9/2",
+        "Label": "1-0"
+      },
+      {
+        "Id": "2692998097",
+        "Line": 0,
+        "OddsAmerican": "525",
+        "OddsFractional": "21/4",
+        "Label": "1-1"
+      },
+      {
+        "Id": "2692998098",
+        "Line": 0,
+        "OddsAmerican": "1200",
+        "OddsFractional": "12/1",
+        "Label": "1-2"
+      },
+      {
+        "Id": "2692998099",
+        "Line": 0,
+        "OddsAmerican": "3500",
+        "OddsFractional": "35/1",
+        "Label": "1-3"
+      },
+      {
+        "Id": "2692998100",
+        "Line": 0,
+        "OddsAmerican": "12000",
+        "OddsFractional": "120/1",
+        "Label": "1-4"
+      },
+      {
+        "Id": "2692998101",
+        "Line": 0,
+        "OddsAmerican": "950",
+        "OddsFractional": "19/2",
+        "Label": "2-0"
+      },
+      {
+        "Id": "2692998102",
+        "Line": 0,
+        "OddsAmerican": "1100",
+        "OddsFractional": "11/1",
+        "Label": "2-1"
+      },
+      {
+        "Id": "2692998103",
+        "Line": 0,
+        "OddsAmerican": "2200",
+        "OddsFractional": "22/1",
+        "Label": "2-2"
+      },
+      {
+        "Id": "2692998104",
+        "Line": 0,
+        "OddsAmerican": "6000",
+        "OddsFractional": "60/1",
+        "Label": "2-3"
+      },
+      {
+        "Id": "2692998105",
+        "Line": 0,
+        "OddsAmerican": "22500",
+        "OddsFractional": "225/1",
+        "Label": "2-4"
+      },
+      {
+        "Id": "2692998106",
+        "Line": 0,
+        "OddsAmerican": "2500",
+        "OddsFractional": "25/1",
+        "Label": "3-0"
+      },
+      {
+        "Id": "2692998107",
+        "Line": 0,
+        "OddsAmerican": "2900",
+        "OddsFractional": "29/1",
+        "Label": "3-1"
+      },
+      {
+        "Id": "2692998108",
+        "Line": 0,
+        "OddsAmerican": "6000",
+        "OddsFractional": "60/1",
+        "Label": "3-2"
+      },
+      {
+        "Id": "2692998109",
+        "Line": 0,
+        "OddsAmerican": "16000",
+        "OddsFractional": "160/1",
+        "Label": "3-3"
+      },
+      {
+        "Id": "2692998110",
+        "Line": 0,
+        "OddsAmerican": "8000",
+        "OddsFractional": "80/1",
+        "Label": "4-0"
+      },
+      {
+        "Id": "2692998111",
+        "Line": 0,
+        "OddsAmerican": "10000",
+        "OddsFractional": "100/1",
+        "Label": "4-1"
+      },
+      {
+        "Id": "2692998112",
+        "Line": 0,
+        "OddsAmerican": "18000",
+        "OddsFractional": "180/1",
+        "Label": "4-2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536399",
+    "BetOfferType": "Double Chance",
+    "CashOutStatus": null,
+    "BetDescription": "Double Chance",
+    "Outcomes": [
+      {
+        "Id": "2692998113",
+        "Line": 0,
+        "OddsAmerican": "-235",
+        "OddsFractional": "21/50",
+        "Label": "1X"
+      },
+      {
+        "Id": "2692998114",
+        "Line": 0,
+        "OddsAmerican": "-345",
+        "OddsFractional": "2/7",
+        "Label": "12"
+      },
+      {
+        "Id": "2692998115",
+        "Line": 0,
+        "OddsAmerican": "-157",
+        "OddsFractional": "16/25",
+        "Label": "X2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536400",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998116",
+        "Line": 0.25,
+        "OddsAmerican": "-186",
+        "OddsFractional": "8/15",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998117",
+        "Line": -0.25,
+        "OddsAmerican": "155",
+        "OddsFractional": "31/20",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536401",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998118",
+        "Line": 3.5,
+        "OddsAmerican": "143",
+        "OddsFractional": "7/5",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998119",
+        "Line": 3.5,
+        "OddsAmerican": "-177",
+        "OddsFractional": "11/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536403",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998126",
+        "Line": -2,
+        "OddsAmerican": "800",
+        "OddsFractional": "8/1",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998127",
+        "Line": 2,
+        "OddsAmerican": "-1250",
+        "OddsFractional": "1/14",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536405",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Both Teams To Score",
+    "Outcomes": [
+      {
+        "Id": "2692998132",
+        "Line": 0,
+        "OddsAmerican": "-220",
+        "OddsFractional": "4/9",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998135",
+        "Line": 0,
+        "OddsAmerican": "163",
+        "OddsFractional": "13/8",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536406",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998136",
+        "Line": 3.5,
+        "OddsAmerican": "1400",
+        "OddsFractional": "14/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998137",
+        "Line": 3.5,
+        "OddsAmerican": "-5000",
+        "OddsFractional": "1/50",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536407",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Away Team to win to nil",
+    "Outcomes": [
+      {
+        "Id": "2692998140",
+        "Line": 0,
+        "OddsAmerican": "540",
+        "OddsFractional": "27/5",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998143",
+        "Line": 0,
+        "OddsAmerican": "-1000",
+        "OddsFractional": "1/10",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536408",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Tie No Bet - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998144",
+        "Line": 0,
+        "OddsAmerican": "-143",
+        "OddsFractional": "7/10",
+        "Label": "1"
+      },
+      {
+        "Id": "2692998145",
+        "Line": 0,
+        "OddsAmerican": "100",
+        "OddsFractional": "Evens",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2196536409",
+    "BetOfferType": "Correct Score",
+    "CashOutStatus": null,
+    "BetDescription": "Correct Score",
+    "Outcomes": [
+      {
+        "Id": "2692998146",
+        "Line": 0,
+        "OddsAmerican": "1500",
+        "OddsFractional": "15/1",
+        "Label": "0-0"
+      },
+      {
+        "Id": "2692998147",
+        "Line": 0,
+        "OddsAmerican": "1200",
+        "OddsFractional": "12/1",
+        "Label": "0-1"
+      },
+      {
+        "Id": "2692998148",
+        "Line": 0,
+        "OddsAmerican": "1500",
+        "OddsFractional": "15/1",
+        "Label": "0-2"
+      },
+      {
+        "Id": "2692998149",
+        "Line": 0,
+        "OddsAmerican": "2800",
+        "OddsFractional": "28/1",
+        "Label": "0-3"
+      },
+      {
+        "Id": "2692998150",
+        "Line": 0,
+        "OddsAmerican": "6000",
+        "OddsFractional": "60/1",
+        "Label": "0-4"
+      },
+      {
+        "Id": "2692998151",
+        "Line": 0,
+        "OddsAmerican": "16000",
+        "OddsFractional": "160/1",
+        "Label": "0-5"
+      },
+      {
+        "Id": "2692998152",
+        "Line": 0,
+        "OddsAmerican": "1000",
+        "OddsFractional": "10/1",
+        "Label": "1-0"
+      },
+      {
+        "Id": "2692998153",
+        "Line": 0,
+        "OddsAmerican": "650",
+        "OddsFractional": "13/2",
+        "Label": "1-1"
+      },
+      {
+        "Id": "2692998154",
+        "Line": 0,
+        "OddsAmerican": "900",
+        "OddsFractional": "9/1",
+        "Label": "1-2"
+      },
+      {
+        "Id": "2692998155",
+        "Line": 0,
+        "OddsAmerican": "1700",
+        "OddsFractional": "17/1",
+        "Label": "1-3"
+      },
+      {
+        "Id": "2692998156",
+        "Line": 0,
+        "OddsAmerican": "4000",
+        "OddsFractional": "40/1",
+        "Label": "1-4"
+      },
+      {
+        "Id": "2692998157",
+        "Line": 0,
+        "OddsAmerican": "10000",
+        "OddsFractional": "100/1",
+        "Label": "1-5"
+      },
+      {
+        "Id": "2692998159",
+        "Line": 0,
+        "OddsAmerican": "1200",
+        "OddsFractional": "12/1",
+        "Label": "2-0"
+      },
+      {
+        "Id": "2692998160",
+        "Line": 0,
+        "OddsAmerican": "800",
+        "OddsFractional": "8/1",
+        "Label": "2-1"
+      },
+      {
+        "Id": "2692998161",
+        "Line": 0,
+        "OddsAmerican": "950",
+        "OddsFractional": "19/2",
+        "Label": "2-2"
+      },
+      {
+        "Id": "2692998162",
+        "Line": 0,
+        "OddsAmerican": "1900",
+        "OddsFractional": "19/1",
+        "Label": "2-3"
+      },
+      {
+        "Id": "2692998163",
+        "Line": 0,
+        "OddsAmerican": "4500",
+        "OddsFractional": "45/1",
+        "Label": "2-4"
+      },
+      {
+        "Id": "2692998164",
+        "Line": 0,
+        "OddsAmerican": "11000",
+        "OddsFractional": "110/1",
+        "Label": "2-5"
+      },
+      {
+        "Id": "2692998165",
+        "Line": 0,
+        "OddsAmerican": "2000",
+        "OddsFractional": "20/1",
+        "Label": "3-0"
+      },
+      {
+        "Id": "2692998166",
+        "Line": 0,
+        "OddsAmerican": "1400",
+        "OddsFractional": "14/1",
+        "Label": "3-1"
+      },
+      {
+        "Id": "2692998167",
+        "Line": 0,
+        "OddsAmerican": "1700",
+        "OddsFractional": "17/1",
+        "Label": "3-2"
+      },
+      {
+        "Id": "2692998168",
+        "Line": 0,
+        "OddsAmerican": "2900",
+        "OddsFractional": "29/1",
+        "Label": "3-3"
+      },
+      {
+        "Id": "2692998169",
+        "Line": 0,
+        "OddsAmerican": "6600",
+        "OddsFractional": "66/1",
+        "Label": "3-4"
+      },
+      {
+        "Id": "2692998170",
+        "Line": 0,
+        "OddsAmerican": "18000",
+        "OddsFractional": "180/1",
+        "Label": "3-5"
+      },
+      {
+        "Id": "2692998171",
+        "Line": 0,
+        "OddsAmerican": "4000",
+        "OddsFractional": "40/1",
+        "Label": "4-0"
+      },
+      {
+        "Id": "2692998172",
+        "Line": 0,
+        "OddsAmerican": "2900",
+        "OddsFractional": "29/1",
+        "Label": "4-1"
+      },
+      {
+        "Id": "2692998173",
+        "Line": 0,
+        "OddsAmerican": "3500",
+        "OddsFractional": "35/1",
+        "Label": "4-2"
+      },
+      {
+        "Id": "2692998174",
+        "Line": 0,
+        "OddsAmerican": "6000",
+        "OddsFractional": "60/1",
+        "Label": "4-3"
+      },
+      {
+        "Id": "2692998175",
+        "Line": 0,
+        "OddsAmerican": "13000",
+        "OddsFractional": "130/1",
+        "Label": "4-4"
+      },
+      {
+        "Id": "2692998176",
+        "Line": 0,
+        "OddsAmerican": "10000",
+        "OddsFractional": "100/1",
+        "Label": "5-0"
+      },
+      {
+        "Id": "2692998177",
+        "Line": 0,
+        "OddsAmerican": "7000",
+        "OddsFractional": "70/1",
+        "Label": "5-1"
+      },
+      {
+        "Id": "2692998178",
+        "Line": 0,
+        "OddsAmerican": "9000",
+        "OddsFractional": "90/1",
+        "Label": "5-2"
+      },
+      {
+        "Id": "2692998179",
+        "Line": 0,
+        "OddsAmerican": "15000",
+        "OddsFractional": "150/1",
+        "Label": "5-3"
+      },
+      {
+        "Id": "2692998180",
+        "Line": 0,
+        "OddsAmerican": "20000",
+        "OddsFractional": "200/1",
+        "Label": "6-1"
+      },
+      {
+        "Id": "2695896523",
+        "Line": 0,
+        "OddsAmerican": "25000",
+        "OddsFractional": "250/1",
+        "Label": "6-2"
+      },
+      {
+        "Id": "2696803548",
+        "Line": 0,
+        "OddsAmerican": "27500",
+        "OddsFractional": "275/1",
+        "Label": "6-0"
+      }
+    ]
+  },
+  {
+    "Id": "2196536410",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998181",
+        "Line": 2,
+        "OddsAmerican": "-2000",
+        "OddsFractional": "1/20",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998182",
+        "Line": -2,
+        "OddsAmerican": "1300",
+        "OddsFractional": "13/1",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536412",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Both Teams To Score - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998195",
+        "Line": 0,
+        "OddsAmerican": "260",
+        "OddsFractional": "13/5",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998198",
+        "Line": 0,
+        "OddsAmerican": "-385",
+        "OddsFractional": "1/4",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536413",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998199",
+        "Line": 1.25,
+        "OddsAmerican": "-590",
+        "OddsFractional": "1/6",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998200",
+        "Line": -1.25,
+        "OddsAmerican": "450",
+        "OddsFractional": "9/2",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536415",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998211",
+        "Line": 1.5,
+        "OddsAmerican": "-625",
+        "OddsFractional": "2/13",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998212",
+        "Line": 1.5,
+        "OddsAmerican": "440",
+        "OddsFractional": "22/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536416",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Home Team To Score - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998214",
+        "Line": 0,
+        "OddsAmerican": "-132",
+        "OddsFractional": "3/4",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998216",
+        "Line": 0,
+        "OddsAmerican": "-106",
+        "OddsFractional": "19/20",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536417",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998217",
+        "Line": 1.5,
+        "OddsAmerican": "100",
+        "OddsFractional": "Evens",
+        "Label": "Under"
+      },
+      {
+        "Id": "2692998218",
+        "Line": 1.5,
+        "OddsAmerican": "-136",
+        "OddsFractional": "8/11",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2196536419",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998245",
+        "Line": 3.5,
+        "OddsAmerican": "-1430",
+        "OddsFractional": "1/16",
+        "Label": "Under"
+      },
+      {
+        "Id": "2692998246",
+        "Line": 3.5,
+        "OddsAmerican": "700",
+        "OddsFractional": "7/1",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2196536420",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998247",
+        "Line": -1.75,
+        "OddsAmerican": "480",
+        "OddsFractional": "24/5",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998248",
+        "Line": 1.75,
+        "OddsAmerican": "-670",
+        "OddsFractional": "1/7",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536421",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998249",
+        "Line": -1,
+        "OddsAmerican": "575",
+        "OddsFractional": "23/4",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998250",
+        "Line": 1,
+        "OddsAmerican": "-1000",
+        "OddsFractional": "1/10",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536422",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998251",
+        "Line": 5,
+        "OddsAmerican": "700",
+        "OddsFractional": "7/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998252",
+        "Line": 5,
+        "OddsAmerican": "-1000",
+        "OddsFractional": "1/10",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536424",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Away Team to Score in both halves",
+    "Outcomes": [
+      {
+        "Id": "2692998261",
+        "Line": 0,
+        "OddsAmerican": "235",
+        "OddsFractional": "47/20",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998264",
+        "Line": 0,
+        "OddsAmerican": "-360",
+        "OddsFractional": "7/25",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536425",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998265",
+        "Line": 4,
+        "OddsAmerican": "265",
+        "OddsFractional": "13/5",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998266",
+        "Line": 4,
+        "OddsAmerican": "-345",
+        "OddsFractional": "2/7",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536426",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998267",
+        "Line": 0,
+        "OddsAmerican": "-139",
+        "OddsFractional": "7/10",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998268",
+        "Line": 0,
+        "OddsAmerican": "117",
+        "OddsFractional": "23/20",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536427",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Home Team to win to nil",
+    "Outcomes": [
+      {
+        "Id": "2692998271",
+        "Line": 0,
+        "OddsAmerican": "400",
+        "OddsFractional": "4/1",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2692998274",
+        "Line": 0,
+        "OddsAmerican": "-670",
+        "OddsFractional": "1/7",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2196536428",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998275",
+        "Line": 1.75,
+        "OddsAmerican": "-1000",
+        "OddsFractional": "1/10",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998276",
+        "Line": -1.75,
+        "OddsAmerican": "700",
+        "OddsFractional": "7/1",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536429",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998277",
+        "Line": 1.5,
+        "OddsAmerican": "130",
+        "OddsFractional": "13/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998278",
+        "Line": 1.5,
+        "OddsAmerican": "-180",
+        "OddsFractional": "11/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536430",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals",
+    "Outcomes": [
+      {
+        "Id": "2692998279",
+        "Line": 5.5,
+        "OddsAmerican": "700",
+        "OddsFractional": "7/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998280",
+        "Line": 5.5,
+        "OddsAmerican": "-1430",
+        "OddsFractional": "1/16",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536433",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998293",
+        "Line": 2.75,
+        "OddsAmerican": "-148",
+        "OddsFractional": "4/6",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998296",
+        "Line": 2.75,
+        "OddsAmerican": "120",
+        "OddsFractional": "6/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536434",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998297",
+        "Line": -2.25,
+        "OddsAmerican": "850",
+        "OddsFractional": "17/2",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998298",
+        "Line": 2.25,
+        "OddsAmerican": "-1250",
+        "OddsFractional": "1/14",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536435",
+    "BetOfferType": "Asian Handicap",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Handicap",
+    "Outcomes": [
+      {
+        "Id": "2692998299",
+        "Line": 0.5,
+        "OddsAmerican": "-235",
+        "OddsFractional": "21/50",
+        "Label": "Everton"
+      },
+      {
+        "Id": "2692998300",
+        "Line": -0.5,
+        "OddsAmerican": "188",
+        "OddsFractional": "15/8",
+        "Label": "Arsenal"
+      }
+    ]
+  },
+  {
+    "Id": "2196536436",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Goals - 2nd Half",
+    "Outcomes": [
+      {
+        "Id": "2692998301",
+        "Line": 0.5,
+        "OddsAmerican": "425",
+        "OddsFractional": "17/4",
+        "Label": "Under"
+      },
+      {
+        "Id": "2692998302",
+        "Line": 0.5,
+        "OddsAmerican": "-715",
+        "OddsFractional": "2/15",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2196536437",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total - 1st Half",
+    "Outcomes": [
+      {
+        "Id": "2692998303",
+        "Line": 1.5,
+        "OddsAmerican": "132",
+        "OddsFractional": "13/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998304",
+        "Line": 1.5,
+        "OddsAmerican": "-175",
+        "OddsFractional": "4/7",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536438",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2692998305",
+        "Line": 4.5,
+        "OddsAmerican": "340",
+        "OddsFractional": "17/5",
+        "Label": "Over"
+      },
+      {
+        "Id": "2692998306",
+        "Line": 4.5,
+        "OddsAmerican": "-455",
+        "OddsFractional": "11/50",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2196536439",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Away Team to score first and win the match",
+    "Outcomes": [
+      {
+        "Id": "2692998309",
+        "Line": 0,
+        "OddsAmerican": "-360",
+        "OddsFractional": "7/25",
+        "Label": "No"
+      },
+      {
+        "Id": "2692998312",
+        "Line": 0,
+        "OddsAmerican": "240",
+        "OddsFractional": "12/5",
+        "Label": "Yes"
+      }
+    ]
+  },
+  {
+    "Id": "2196537799",
+    "BetOfferType": "Player Occurrence Number",
+    "CashOutStatus": null,
+    "BetDescription": "First Goal Scorer",
+    "Outcomes": [
+      {
+        "Id": "2693010301",
+        "Line": 0,
+        "OddsAmerican": "1800",
+        "OddsFractional": "18/1",
+        "Label": "Digne, Lucas"
+      },
+      {
+        "Id": "2693010302",
+        "Line": 0,
+        "OddsAmerican": "2800",
+        "OddsFractional": "28/1",
+        "Label": "Keane, Michael"
+      },
+      {
+        "Id": "2693010303",
+        "Line": 0,
+        "OddsAmerican": "650",
+        "OddsFractional": "13/2",
+        "Label": "Martinelli, Gabriel"
+      },
+      {
+        "Id": "2693010304",
+        "Line": 0,
+        "OddsAmerican": "2000",
+        "OddsFractional": "20/1",
+        "Label": "Mina, Yerry"
+      },
+      {
+        "Id": "2693010305",
+        "Line": 0,
+        "OddsAmerican": "600",
+        "OddsFractional": "6/1",
+        "Label": "Calvert-Lewin, Dominic"
+      },
+      {
+        "Id": "2693010306",
+        "Line": 0,
+        "OddsAmerican": "1100",
+        "OddsFractional": "11/1",
+        "Label": "Nelson, Reiss"
+      },
+      {
+        "Id": "2693010308",
+        "Line": 0,
+        "OddsAmerican": "575",
+        "OddsFractional": "23/4",
+        "Label": "Richarlison"
+      },
+      {
+        "Id": "2693010309",
+        "Line": 0,
+        "OddsAmerican": "2400",
+        "OddsFractional": "24/1",
+        "Label": "Coleman, Seamus"
+      },
+      {
+        "Id": "2693010310",
+        "Line": 0,
+        "OddsAmerican": "3500",
+        "OddsFractional": "35/1",
+        "Label": "Kola\u0161inac, Sead"
+      },
+      {
+        "Id": "2693010311",
+        "Line": 0,
+        "OddsAmerican": "4000",
+        "OddsFractional": "40/1",
+        "Label": "Guendouzi, Matteo"
+      },
+      {
+        "Id": "2693010312",
+        "Line": 0,
+        "OddsAmerican": "600",
+        "OddsFractional": "6/1",
+        "Label": "Tosun, Cenk"
+      },
+      {
+        "Id": "2693010313",
+        "Line": 0,
+        "OddsAmerican": "2000",
+        "OddsFractional": "20/1",
+        "Label": "Baines, Leighton"
+      },
+      {
+        "Id": "2693010314",
+        "Line": 0,
+        "OddsAmerican": "460",
+        "OddsFractional": "23/5",
+        "Label": "Aubameyang, Pierre-Emerick"
+      },
+      {
+        "Id": "2693010315",
+        "Line": 0,
+        "OddsAmerican": "4000",
+        "OddsFractional": "40/1",
+        "Label": "Beller\u00EDn, Hector"
+      },
+      {
+        "Id": "2693010316",
+        "Line": 0,
+        "OddsAmerican": "2000",
+        "OddsFractional": "20/1",
+        "Label": "Xhaka, Granit"
+      },
+      {
+        "Id": "2693010317",
+        "Line": 0,
+        "OddsAmerican": "3300",
+        "OddsFractional": "33/1",
+        "Label": "Sidib\u00E9, Djibril"
+      },
+      {
+        "Id": "2693010319",
+        "Line": 0,
+        "OddsAmerican": "2500",
+        "OddsFractional": "25/1",
+        "Label": "Torreira, Lucas"
+      },
+      {
+        "Id": "2693010320",
+        "Line": 0,
+        "OddsAmerican": "1150",
+        "OddsFractional": "23/2",
+        "Label": "Iwobi, Alex"
+      },
+      {
+        "Id": "2693010321",
+        "Line": 0,
+        "OddsAmerican": "3000",
+        "OddsFractional": "30/1",
+        "Label": "Mustafi, Shkodran"
+      },
+      {
+        "Id": "2693010322",
+        "Line": 0,
+        "OddsAmerican": "2200",
+        "OddsFractional": "22/1",
+        "Label": "Maitland-Niles, Ainsley"
+      },
+      {
+        "Id": "2693010323",
+        "Line": 0,
+        "OddsAmerican": "600",
+        "OddsFractional": "6/1",
+        "Label": "Kean, Moise"
+      },
+      {
+        "Id": "2693010324",
+        "Line": 0,
+        "OddsAmerican": "3000",
+        "OddsFractional": "30/1",
+        "Label": "David Luiz"
+      },
+      {
+        "Id": "2693010326",
+        "Line": 0,
+        "OddsAmerican": "1200",
+        "OddsFractional": "12/1",
+        "Label": "Bernard"
+      },
+      {
+        "Id": "2693010327",
+        "Line": 0,
+        "OddsAmerican": "850",
+        "OddsFractional": "17/2",
+        "Label": "Sigurdsson, Gylfi"
+      },
+      {
+        "Id": "2693010328",
+        "Line": 0,
+        "OddsAmerican": "1600",
+        "OddsFractional": "16/1",
+        "Label": "Ceballos, Dani"
+      },
+      {
+        "Id": "2693010329",
+        "Line": 0,
+        "OddsAmerican": "1400",
+        "OddsFractional": "14/1",
+        "Label": "\u00D6zil, Mesut"
+      },
+      {
+        "Id": "2693010330",
+        "Line": 0,
+        "OddsAmerican": "2400",
+        "OddsFractional": "24/1",
+        "Label": "Delph, Fabian"
+      },
+      {
+        "Id": "2693010331",
+        "Line": 0,
+        "OddsAmerican": "2000",
+        "OddsFractional": "20/1",
+        "Label": "Davies, Tom"
+      },
+      {
+        "Id": "2693010332",
+        "Line": 0,
+        "OddsAmerican": "2000",
+        "OddsFractional": "20/1",
+        "Label": "Willock, Joe"
+      },
+      {
+        "Id": "2693010333",
+        "Line": 0,
+        "OddsAmerican": "850",
+        "OddsFractional": "17/2",
+        "Label": "Pepe, Nicolas"
+      },
+      {
+        "Id": "2693010335",
+        "Line": 0,
+        "OddsAmerican": "525",
+        "OddsFractional": "21/4",
+        "Label": "Lacazette, Alexandre"
+      },
+      {
+        "Id": "2693010336",
+        "Line": 0,
+        "OddsAmerican": "1300",
+        "OddsFractional": "13/1",
+        "Label": "Saka, Bukayo"
+      },
+      {
+        "Id": "2693010337",
+        "Line": 0,
+        "OddsAmerican": "3000",
+        "OddsFractional": "30/1",
+        "Label": "Chambers, Calum"
+      },
+      {
+        "Id": "2693010339",
+        "Line": 0,
+        "OddsAmerican": "3300",
+        "OddsFractional": "33/1",
+        "Label": "Holgate, Mason"
+      },
+      {
+        "Id": "2693010340",
+        "Line": 0,
+        "OddsAmerican": "2800",
+        "OddsFractional": "28/1",
+        "Label": "Baningime, Beni"
+      },
+      {
+        "Id": "2696703610",
+        "Line": 0,
+        "OddsAmerican": "4000",
+        "OddsFractional": "40/1",
+        "Label": "Mavropanos, Konstantinos"
+      },
+      {
+        "Id": "2696703611",
+        "Line": 0,
+        "OddsAmerican": "1500",
+        "OddsFractional": "15/1",
+        "Label": "Smith Rowe, Emile"
+      },
+      {
+        "Id": "2696703612",
+        "Line": 0,
+        "OddsAmerican": "600",
+        "OddsFractional": "6/1",
+        "Label": "Niasse, Oumar"
+      }
+    ]
+  },
+  {
+    "Id": "2197661987",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Most Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761006",
+        "Line": 0,
+        "OddsAmerican": "-155",
+        "OddsFractional": "13/20",
+        "Label": "1"
+      },
+      {
+        "Id": "2696761007",
+        "Line": 0,
+        "OddsAmerican": "650",
+        "OddsFractional": "13/2",
+        "Label": "X"
+      },
+      {
+        "Id": "2696761008",
+        "Line": 0,
+        "OddsAmerican": "175",
+        "OddsFractional": "7/4",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2197661988",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761009",
+        "Line": 9.5,
+        "OddsAmerican": "145",
+        "OddsFractional": "29/20",
+        "Label": "Under"
+      },
+      {
+        "Id": "2696761010",
+        "Line": 9.5,
+        "OddsAmerican": "-200",
+        "OddsFractional": "1/2",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2197661989",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2696761011",
+        "Line": 5.5,
+        "OddsAmerican": "163",
+        "OddsFractional": "13/8",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761012",
+        "Line": 5.5,
+        "OddsAmerican": "-225",
+        "OddsFractional": "4/9",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197661990",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761013",
+        "Line": 13.5,
+        "OddsAmerican": "-560",
+        "OddsFractional": "1/6",
+        "Label": "Under"
+      },
+      {
+        "Id": "2696761014",
+        "Line": 13.5,
+        "OddsAmerican": "360",
+        "OddsFractional": "18/5",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2197661992",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2696761018",
+        "Line": 5.5,
+        "OddsAmerican": "-127",
+        "OddsFractional": "10/13",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761019",
+        "Line": 5.5,
+        "OddsAmerican": "-105",
+        "OddsFractional": "19/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197661993",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761020",
+        "Line": 12.5,
+        "OddsAmerican": "-335",
+        "OddsFractional": "3/10",
+        "Label": "Under"
+      },
+      {
+        "Id": "2696761021",
+        "Line": 12.5,
+        "OddsAmerican": "230",
+        "OddsFractional": "23/10",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2197661994",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2696761022",
+        "Line": 7.5,
+        "OddsAmerican": "270",
+        "OddsFractional": "27/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761025",
+        "Line": 7.5,
+        "OddsAmerican": "-400",
+        "OddsFractional": "1/4",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197661995",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2696761023",
+        "Line": 6.5,
+        "OddsAmerican": "150",
+        "OddsFractional": "6/4",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761024",
+        "Line": 6.5,
+        "OddsAmerican": "-205",
+        "OddsFractional": "12/25",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197661996",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761026",
+        "Line": 11.5,
+        "OddsAmerican": "-195",
+        "OddsFractional": "13/25",
+        "Label": "Under"
+      },
+      {
+        "Id": "2696761027",
+        "Line": 11.5,
+        "OddsAmerican": "143",
+        "OddsFractional": "7/5",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2197661998",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2696761031",
+        "Line": 6.5,
+        "OddsAmerican": "310",
+        "OddsFractional": "3/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761032",
+        "Line": 6.5,
+        "OddsAmerican": "-455",
+        "OddsFractional": "11/50",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197661999",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2696761033",
+        "Line": 4.5,
+        "OddsAmerican": "-124",
+        "OddsFractional": "4/5",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761034",
+        "Line": 4.5,
+        "OddsAmerican": "-108",
+        "OddsFractional": "10/11",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197662002",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761041",
+        "Line": 8.5,
+        "OddsAmerican": "245",
+        "OddsFractional": "49/20",
+        "Label": "Under"
+      },
+      {
+        "Id": "2696761042",
+        "Line": 8.5,
+        "OddsAmerican": "-345",
+        "OddsFractional": "2/7",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2197662003",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2696761043",
+        "Line": 4.5,
+        "OddsAmerican": "-265",
+        "OddsFractional": "4/11",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761044",
+        "Line": 4.5,
+        "OddsAmerican": "190",
+        "OddsFractional": "19/10",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197662004",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2696761045",
+        "Line": 3.5,
+        "OddsAmerican": "-278",
+        "OddsFractional": "7/20",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696761046",
+        "Line": 3.5,
+        "OddsAmerican": "195",
+        "OddsFractional": "39/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197662005",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Corners",
+    "Outcomes": [
+      {
+        "Id": "2696761047",
+        "Line": 10.5,
+        "OddsAmerican": "-115",
+        "OddsFractional": "17/20",
+        "Label": "Under"
+      },
+      {
+        "Id": "2696761048",
+        "Line": 10.5,
+        "OddsAmerican": "-115",
+        "OddsFractional": "17/20",
+        "Label": "Over"
+      }
+    ]
+  },
+  {
+    "Id": "2197662018",
+    "BetOfferType": "Match",
+    "CashOutStatus": null,
+    "BetDescription": "Most Cards",
+    "Outcomes": [
+      {
+        "Id": "2696761077",
+        "Line": 0,
+        "OddsAmerican": "143",
+        "OddsFractional": "7/5",
+        "Label": "1"
+      },
+      {
+        "Id": "2696761078",
+        "Line": 0,
+        "OddsAmerican": "330",
+        "OddsFractional": "33/10",
+        "Label": "X"
+      },
+      {
+        "Id": "2696761079",
+        "Line": 0,
+        "OddsAmerican": "123",
+        "OddsFractional": "6/5",
+        "Label": "2"
+      }
+    ]
+  },
+  {
+    "Id": "2197678147",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Home Team to score from a penalty",
+    "Outcomes": [
+      {
+        "Id": "2696767299",
+        "Line": 0,
+        "OddsAmerican": "550",
+        "OddsFractional": "11/2",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2696767300",
+        "Line": 0,
+        "OddsAmerican": "-1250",
+        "OddsFractional": "1/14",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2197678172",
+    "BetOfferType": "Yes/No",
+    "CashOutStatus": null,
+    "BetDescription": "Away Team to score from a penalty",
+    "Outcomes": [
+      {
+        "Id": "2696767382",
+        "Line": 0,
+        "OddsAmerican": "650",
+        "OddsFractional": "13/2",
+        "Label": "Yes"
+      },
+      {
+        "Id": "2696767383",
+        "Line": 0,
+        "OddsAmerican": "-1667",
+        "OddsFractional": "1/18",
+        "Label": "No"
+      }
+    ]
+  },
+  {
+    "Id": "2197681498",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2696803544",
+        "Line": 5.5,
+        "OddsAmerican": "800",
+        "OddsFractional": "8/1",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696803545",
+        "Line": 5.5,
+        "OddsAmerican": "-1250",
+        "OddsFractional": "1/14",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197681499",
+    "BetOfferType": "Asian Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Asian Total",
+    "Outcomes": [
+      {
+        "Id": "2696803546",
+        "Line": 5.75,
+        "OddsAmerican": "1050",
+        "OddsFractional": "21/2",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696803547",
+        "Line": 5.75,
+        "OddsAmerican": "-2000",
+        "OddsFractional": "1/20",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197700372",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Shots by Home Team",
+    "Outcomes": [
+      {
+        "Id": "2696813106",
+        "Line": 14.5,
+        "OddsAmerican": "-112",
+        "OddsFractional": "9/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696813107",
+        "Line": 14.5,
+        "OddsAmerican": "-125",
+        "OddsFractional": "4/5",
+        "Label": "Under"
+      }
+    ]
+  },
+  {
+    "Id": "2197700404",
+    "BetOfferType": "Over/Under",
+    "CashOutStatus": null,
+    "BetDescription": "Total Shots by Away Team",
+    "Outcomes": [
+      {
+        "Id": "2696813220",
+        "Line": 10.5,
+        "OddsAmerican": "-112",
+        "OddsFractional": "9/10",
+        "Label": "Over"
+      },
+      {
+        "Id": "2696813221",
+        "Line": 10.5,
+        "OddsAmerican": "-125",
+        "OddsFractional": "4/5",
+        "Label": "Under"
+      }
+    ]
+  }
+]
